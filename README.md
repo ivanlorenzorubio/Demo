@@ -1,3 +1,3 @@
-# Fichero de prueba
+# git - la guía sencilla
 
-## Añadiendo un cambio
+Una guía sencilla para comenzar con git sin complicaciones ;)
